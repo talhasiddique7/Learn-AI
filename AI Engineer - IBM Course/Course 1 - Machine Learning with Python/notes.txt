@@ -1,0 +1,31 @@
+Module 01:
+Machine Learning algorithms
+	Regression
+		Simple Linear Regression
+		Multiple Linear Regression
+		Regression trees 
+	Classification
+		logistic Regression
+		KNN
+		SVM
+		Multiclass Prediction
+		Decision tree
+	Clustering
+		K-means
+Python  libraries in Machine Learning
+	Numpy
+	Pandas
+	Scipy
+	Scikit learn
+	Matplotlib
+
+Supervised and unsupervised
+	Supervised:
+		teaching model on labeled data
+		train model on both train and test data
+	unsupervised:
+		train on datasets (unlabeled)
+		clustering
+		dimensional reduction
+			
+

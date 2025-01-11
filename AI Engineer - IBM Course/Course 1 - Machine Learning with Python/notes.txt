@@ -27,5 +27,27 @@ Supervised and unsupervised
 		train on datasets (unlabeled)
 		clustering
 		dimensional reduction
+		
+Module 02:
+	Regression
+		process of predict continuous numbers
+		dependent variables  = y
+		Independent variables = m,x, and c
+		y = mx + c 
+		
+		Simple Regression
+			Simple linear 
+			Simple non Linear
+		Multiple Regression
+			multiple linear
+			multiple non linear
+		Applications
+			predict price
+			employment income
+		
+		Evaluation Metrix
+			train/test split
+			
+		
 			
 

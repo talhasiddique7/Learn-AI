@@ -69,6 +69,7 @@ Module 04:
 	Support Vector Machine
 		why SVM than Logistic Regression	
 	Multi class Prediction
+		explain
 		
 		
 		

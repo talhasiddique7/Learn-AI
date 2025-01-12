@@ -45,9 +45,32 @@ Module 02:
 			predict price
 			employment income
 		
-		Evaluation Metrix
+		Evaluation Matrix
+			MSE
+			MAE
+			RMSE
 			train/test split
-			
+			high training rate can cause over fitting a model
+			low performance on training and testing cause under fit model
+
+Module 03:
+	Classification
+		predicting variable is categorical
+	K-Nearest Neighbours
+	Decision Tree
+	Evaluation matrix for classification
+		F1 score
+		log loss
+
+Module 04:
+	logistic Regression
+		what,what problem solved and which situation used
+		use linear regression & Logistic Regression in binary problem??
+	Support Vector Machine
+		why SVM than Logistic Regression	
+	Multi class Prediction
+		
+		
 		
 			
 

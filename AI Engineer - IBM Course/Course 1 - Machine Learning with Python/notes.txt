@@ -76,7 +76,8 @@ Module 05:
 	K means Clustering
 		what is clustering
 		
-
+Module 06:
+	final project
 		
 		
 		
